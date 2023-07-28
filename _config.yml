@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: The Art of Observability
+description: >- # this means to ignore newlines until "theme:
+  The Art of Observability: SRE Best Practices for System Insights
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://smigielski.github.io/
+#url: https://monitoring4sre.com/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
