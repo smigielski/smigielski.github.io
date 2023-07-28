@@ -21,7 +21,7 @@ The content of this book revolves around the following main areas:
 
 ## How to Contribute
 
-We appreciate any kind of contribution - from error corrections, content improvement to new sections that you believe would help the reader. Please refer to the `CONTRIBUTING.md` file for instructions on how to contribute. 
+We appreciate any kind of contribution - from error corrections, content improvement to new sections that you believe would help the reader. Please refer to the [Contribiution guide](CONTRIBUTING.md) file for instructions on how to contribute. 
 
 ## Feedback
 
