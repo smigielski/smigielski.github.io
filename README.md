@@ -29,7 +29,7 @@ Feedback is always welcome! If you have any feedback or you want to discuss some
 
 ## License
 
-'The Art of Observability: SRE Best Practices for System Insights' is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt the material, but you must give appropriate credit.
+'The Art of Observability: SRE Best Practices for System Insights' is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the material, but you must give appropriate credit.
 
 ## About the Author
 

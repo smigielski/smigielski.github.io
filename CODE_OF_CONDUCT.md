@@ -44,4 +44,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](http://contribut
 
 ## Content Ownership
 
-All contributed content remains the intellectual property of the original author. By contributing to this project, you grant the owner a non-exclusive, worldwide, royalty-free license to use, reproduce, distribute, prepare derivative works of, publicly display, and publicly perform the Contributions under the terms of the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+All contributed content remains the intellectual property of the original author. By contributing to this project, you grant the owner a non-exclusive, worldwide, royalty-free license to use, reproduce, distribute, prepare derivative works of, publicly display, and publicly perform the Contributions under the terms of the [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
